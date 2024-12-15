@@ -3,6 +3,11 @@ This Text Summarizer Project aims to develop an advanced natural language proces
 
 ---
 
+## Table of Contents
+1. [Workflows](#workflows)
+2. [Steps to run the project](#steps-to-run-the-project)
+3. [AWS CI-CD Deployment using Github actions](#AWS-CI-CD-Deployment-using-Github-actions)
+
 ## Workflows
 - Setup github repository
 - Create README.md

@@ -1,6 +1,8 @@
 # Text Summarizer Project
 This Text Summarizer Project aims to develop an advanced natural language processing (NLP) model capable of automatically generating concise and coherent summaries from large volumes of text using huggingface tranformers text summarizer api to get the text summaries as an output. The main motive to build this application is to understand how the transformer actually works and how we can use apis to get or list out the summary of the text data. This project is solely for the purpose of learning.
 
+---
+
 ## Workflows
 - Setup github repository
 - Create README.md
@@ -21,6 +23,8 @@ This Text Summarizer Project aims to develop an advanced natural language proces
 - Update the pipeline
 - Update the main.py
 - Update the app.py
+
+---
 
 ## Steps to run the project
 Clone this project
@@ -47,6 +51,8 @@ python app.py
 ```
 
 Open your local host and the port mentioned to use the app.
+
+---
 
 ## AWS CI-CD Deployment using Github actions
 ### 1. Login to AWS Console
